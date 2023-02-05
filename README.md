@@ -1,6 +1,6 @@
 # Unity 2D Game Delivery Driver
 
-## [Play](https://tonywei.itch.io/sot?secret=vMm6wDGWkcA3rEpPiEmKmy62M2U) the game
+## [Play](https://tonywei.itch.io/driver?secret=JYUXPn8BNWPQ8Jxhgl49J4T4MYw) the game
 
 **Movement:** up, down, left, right
 
