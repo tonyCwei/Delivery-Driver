@@ -4,6 +4,6 @@
 
 **Movement:** up, down, left, right
 
-Pick up packages and deliver to customers(emojis) within the time Limit
+Pick up packages and deliver to customers(emojis) within the time limit
 
-Avoid water puddle, lightings give speed boosts!
+Avoid water puddles, lightings give speed boosts!
